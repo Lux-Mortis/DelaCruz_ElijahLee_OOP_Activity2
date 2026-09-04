@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Code\OOPact1\obj\Debug\net10.0\OOPact1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Code\OOPact1\obj\Debug\net10.0\OOPact1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Code\OOPact1\obj\Debug\net10.0\OOPact1.AssemblyInfo.cs
+C:\Users\LENOVO\Code\OOPact1\obj\Debug\net10.0\OOPact1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Code\OOPact1\bin\Debug\net10.0\OOPact1.exe
+C:\Users\LENOVO\Code\OOPact1\bin\Debug\net10.0\OOPact1.deps.json
+C:\Users\LENOVO\Code\OOPact1\bin\Debug\net10.0\OOPact1.runtimeconfig.json
+C:\Users\LENOVO\Code\OOPact1\bin\Debug\net10.0\OOPact1.dll
+C:\Users\LENOVO\Code\OOPact1\bin\Debug\net10.0\OOPact1.pdb
+C:\Users\LENOVO\Code\OOPact1\obj\Debug\net10.0\OOPact1.dll
+C:\Users\LENOVO\Code\OOPact1\obj\Debug\net10.0\refint\OOPact1.dll
+C:\Users\LENOVO\Code\OOPact1\obj\Debug\net10.0\OOPact1.pdb
+C:\Users\LENOVO\Code\OOPact1\obj\Debug\net10.0\OOPact1.genruntimeconfig.cache
+C:\Users\LENOVO\Code\OOPact1\obj\Debug\net10.0\ref\OOPact1.dll
